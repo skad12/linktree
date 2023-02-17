@@ -1,0 +1,69 @@
+{
+  "name": "olakunle stephen",
+  "avatar": "https://pbs.twimg.com/profile_images/1619371002818924546/GMMhG_Kq_400x400.jpg",
+  "links": [
+    {
+      "name": "Alice",
+      "image": "https://pbs.twimg.com/profile_images/1608183141113495553/69-mk3iz_400x400.jpg",
+      "social_media": {
+        "twitter": "https://twitter.com/alice",
+        "instagram": "https://instagram.com/alice",
+        "linkedin": "https://linkedin.com/in/alice"
+      }
+    },
+    {
+      "name": "Bob",
+      "image": "https://pbs.twimg.com/profile_images/1603821374639742976/1gupGhXM_400x400.jpg",
+      "social_media": {
+        "twitter": "https://twitter.com/bob",
+        "instagram": "https://instagram.com/bob",
+        "linkedin": "https://linkedin.com/in/bob"
+      }
+    },
+    {
+      "name": "Charlie",
+      "image": "https://pbs.twimg.com/profile_images/1594108279352971269/313lfLjD_400x400.jpg",
+      "social_media": {
+        "twitter": "https://twitter.com/charlie",
+        "instagram": "https://instagram.com/charlie",
+        "linkedin": "https://linkedin.com/in/charlie"
+      }
+    },
+    {
+      "name": "David",
+      "image": "https://pbs.twimg.com/profile_images/1420376059296600067/Rq1PyY2H_400x400.jpg",
+      "social_media": {
+        "twitter": "https://twitter.com/david",
+        "instagram": "https://instagram.com/david",
+        "linkedin": "https://linkedin.com/in/david"
+      }
+    },
+    {
+      "name": "Emily",
+      "image": "https://pbs.twimg.com/profile_images/3415838672/ac6342d51d4e694c0f1263af06eaa32e_400x400.jpeg",
+      "social_media": {
+        "twitter": "https://twitter.com/emily",
+        "instagram": "https://instagram.com/emily",
+        "linkedin": "https://linkedin.com/in/emily"
+      }
+    },
+    {
+      "name": "Frank",
+      "image": "https://pbs.twimg.com/profile_images/1222428325244801025/lA1Mkxts_400x400.jpg",
+      "social_media": {
+        "twitter": "https://twitter.com/frank",
+        "instagram": "https://instagram.com/frank",
+        "linkedin": "https://linkedin.com/in/frank"
+      }
+    },
+    {
+      "name": "Grace",
+      "image": "https://pbs.twimg.com/profile_images/1455214640976310276/BnpmUurH_400x400.jpg",
+      "social_media": {
+        "twitter": "https://twitter.com/grace",
+        "instagram": "https://instagram.com/grace",
+        "linkedin": "https://linkedin.com/in/grace"
+      }
+    }
+  ]
+}
